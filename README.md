@@ -1,3 +1,4 @@
 # SEJARAH DAN PERKEMBANGAN MONITOR DARI MASA KE MASA
 
 ## 1. Pengertian dan Fungsi Monitor
+Monitor merupakan salah satu hardware dari komputer. Yang dimaksud dengan monitor adalah output device / alat keluaran yang berfugsi untuk menampilkan gambar pada layar dan sebagai Interface atau layar visual yang menghubungkan antara manusia dengan komputer. Gambar yang ditampilkan berasal dari proses grafis yang dilakukan oleh VGA Card. Secara fisik, monitor mempunyai bentuk seperti halnya layar televisi dan fungsinya untuk menampilkan data dan informasi yang berguna bagi para pemakai komputer. Selain itu monitor juga merupakan alat output yang berguna untuk berinteraksi antara komputer dengan pemakai atau penggunanya atau yang dikenal dengan istilah user. Sehingga monitor dapat dikatakan salah satu hardware terpenting dari suatu komputer. Kata monitor sebenarnya adalah sebuah istilah dari bahasa Latin yang artinya untuk pengingat atau penyaran.

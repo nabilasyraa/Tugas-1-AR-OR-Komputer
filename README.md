@@ -1,3 +1,3 @@
-# Sejarah dan Perkembangan Monitor dari Masa ke Masa
+# SEJARAH DAN PERKEMBANGAN MONITOR DARI MASA KE MASA
 
 ## 1. Pengertian dan Fungsi Monitor
